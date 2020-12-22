@@ -1,3 +1,5 @@
+<img src="header.svg" width="30px">
+
 ## Hi I'm VatsaDev, <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px"> <br>
 ### a front end developer who wants to be a mern stack developer
 
