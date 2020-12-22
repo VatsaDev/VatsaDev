@@ -5,5 +5,5 @@
  - Make cogLabs, a plain codepen clone
  
  [![VatsaDev's github stats](https://github-readme-stats.vercel.app/api?username=VatsaDev&show_icons=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
- [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=VatsaDev)](https://github.com/anuraghazra/github-readme-stats)
+ [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=VatsaDev&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
  
