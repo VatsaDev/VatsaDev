@@ -1,5 +1,5 @@
-# Hi I'm Vatsa, a hobbyist front end developer / graphic designer.
-## My goals
+## Hi I'm Vatsa, a front end developer who wants to be a mern stack developer
+### My goals
  - be a mern stack
  - make a coding language
  - Make cogLabs, a plain codepen clone
