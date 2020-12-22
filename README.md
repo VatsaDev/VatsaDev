@@ -1,5 +1,4 @@
-## Hi I'm Vatsa, a front end developer who wants to be a mern stack developer
-
+## Hi I'm VatsaDev, a front end developer who wants to be a mern stack developer
 ---
 
  [![VatsaDev's github stats](https://github-readme-stats.vercel.app/api?username=VatsaDev&show_icons=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
