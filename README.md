@@ -6,4 +6,5 @@ My favorite type of graphic design is flat design, especially kurzgesagt style <
  - make a coding language
  - Make cogLabs, a plain codepen clone
  
- [![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=VatsaDev)](https://github.com/anuraghazra/github-readme-stats)
+ [![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=VatsaDev&show_icons=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
+ 
