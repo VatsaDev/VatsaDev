@@ -6,3 +6,4 @@
  <br>
  <br>
  ![gitlab](https://img.shields.io/badge/Gitlab-VatsaDev-orange)
+ ![gmail](https://img.shields.io/badge/gmail-vatsapandey123%40gmail.com-red)
