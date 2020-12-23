@@ -16,6 +16,4 @@ having a fun time on github! (thats me ↓)<br>
  ![gitlab](https://img.shields.io/badge/Gitlab-VatsaDev-orange) <br>
  ![gmail](https://img.shields.io/badge/gmail-vatsapandey123%40gmail.com-red)
  <br><br>
- ## comment
- 
- <script src="https://utteranc.es/client.js" repo="VatsaDev/VatsaDev" issue-term="pathname"theme="github-dark" crossorigin="anonymous" async></script>
+ ## comment [here](https://vatsadev.github.io/)
