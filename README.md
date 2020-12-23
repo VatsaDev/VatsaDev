@@ -12,8 +12,8 @@ having a fun time on github! (thats me ↓)<br>
  <br>
  <br>
  #### Contact me
+
  ![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg) <br>
  ![gitlab](https://img.shields.io/badge/Gitlab-VatsaDev-orange) <br>
- ![gmail](https://img.shields.io/badge/gmail-vatsapandey123%40gmail.com-red)
  <br><br>
- ## comment [here](https://vatsadev.github.io/)
+ ## comment and check my site out [here](https://vatsadev.github.io/)
