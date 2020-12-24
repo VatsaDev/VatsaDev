@@ -6,7 +6,8 @@
 ##### what i am good at 
  - plain html css and js
  - some preprocessors like markdown
-#####
+##### my goals
+ - be a mern stack developer
 
 ---
 having a fun time on github! (thats me ↓)<br>
