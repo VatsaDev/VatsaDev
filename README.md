@@ -3,6 +3,11 @@
 ## Hi I'm VatsaDev, <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px"> <br>
 ### a front end developer who wants to be a mern stack developer
 
+##### what i am good at 
+<details>
+ - plain html css and js
+</details>
+
 ---
 having a fun time on github! (thats me ↓)<br>
 <img src="walk.gif">
