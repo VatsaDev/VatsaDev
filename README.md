@@ -4,9 +4,9 @@
 ### a front end developer who wants to be a mern stack developer
 
 ##### what i am good at 
-<details>
  - plain html css and js
-</details>
+ - some preprocessors like markdown
+#####
 
 ---
 having a fun time on github! (thats me ↓)<br>
