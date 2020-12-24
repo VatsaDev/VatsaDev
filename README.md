@@ -15,6 +15,6 @@ having a fun time on github! (thats me ↓)<br>
 
  ![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg) <br>
  ![gitlab](https://img.shields.io/badge/Gitlab-VatsaDev-orange) <br>
- ![gmail](https://img.shields.io/badge/Gmail-VatsaDev-red) <br>
+ ![gmail](https://img.shields.io/badge/Gmail-vatsapandey123@gmail.com-red) <br>
  <br><br>
  ## comment and check my site out [here](https://vatsadev.github.io/)
