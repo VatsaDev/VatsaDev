@@ -9,6 +9,8 @@
 ##### my goals
  - be a mern stack developer
 
+i like coding in general, but i really dont like fa
+
 ---
 having a fun time on github! (thats me ↓)<br>
 <img src="walk.gif">
