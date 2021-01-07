@@ -19,6 +19,8 @@ having a fun time on github! (thats me ↓)<br>
  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=VatsaDev&theme=radical&langs_count=10&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
  <br>
  <br>
+ [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=anuraghazra&repo=github-readme-stats)](https://github.com/anuraghazra/github-readme-stats)
+ 
  #### Contact me
 
  ![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg) <br>
