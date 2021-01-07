@@ -9,8 +9,6 @@
 ##### my goals
  - be a mern stack developer
 
-i like coding in general, but i really dont like fa
-
 ---
 having a fun time on github! (thats me ↓)<br>
 <img src="walk.gif">
@@ -19,7 +17,8 @@ having a fun time on github! (thats me ↓)<br>
  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=VatsaDev&theme=radical&langs_count=10&layout=compact)](https://github.com/anuraghazra/github-readme-stats) <br>
  <br>
  <br>
- some projects
+ some projects <br>
+ 
  [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=vatsadev&repo=vergejs&theme=radical)](https://github.com/vatsadev/vergejs) <br>
  [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=vatsadev&repo=coglabs&theme=radical)](https://github.com/vatsadev/coglabs) <br>
  #### Contact me
