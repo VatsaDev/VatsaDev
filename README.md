@@ -19,7 +19,7 @@ having a fun time on github! (thats me ↓)<br>
  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=VatsaDev&theme=radical&langs_count=10&layout=compact)](https://github.com/anuraghazra/github-readme-stats) <br>
  <br>
  <br>
- [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=anuraghazra&repo=github-readme-stats&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
+ [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=vatsadev&repo=vergejs&theme=radical)](https://github.com/vatsadev/vergejs)
  
  #### Contact me
 
