@@ -1,7 +1,7 @@
 <img src="header.svg">
 
 ## Hi I'm VatsaDev, <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px"> <br>
-### a front end developer who wants to be a mern stack developer
+### a front end developer who wants to be a mern stack developer ⚛️
 
 ##### what i am good at 
  - plain html css and js
@@ -10,7 +10,7 @@
  - be a mern stack developer
 
 ---
-having a fun time on github! (thats me ↓)<br>
+✨having a fun time on github! (thats me ↓)<br>
 <img src="walk.gif">
 
  [![VatsaDev's github stats](https://github-readme-stats.vercel.app/api?username=VatsaDev&show_icons=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats) <br>
