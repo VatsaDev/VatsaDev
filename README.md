@@ -19,8 +19,7 @@
  <br>
  some projects <br>
  
- [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=vatsadev&repo=vergejs&theme=radical)](https://github.com/vatsadev/vergejs) <br>
- [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=vatsadev&repo=coglabs&theme=radical)](https://github.com/vatsadev/coglabs) <br>
+ [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=vatsadev&repo=JsLabs&theme=monokai)](https://github.com/vatsadev/JsLabs) <br>
  #### Contact me
 
  ![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg) <br>
