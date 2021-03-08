@@ -13,8 +13,8 @@
 ✨having a fun time on github! (thats me ↓)<br>
 <img src="walk.gif">
 
- [![VatsaDev's github stats](https://github-readme-stats.vercel.app/api?username=VatsaDev&show_icons=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats) <br>
- [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=VatsaDev&theme=radical&langs_count=10&layout=compact)](https://github.com/anuraghazra/github-readme-stats) <br>
+ [![VatsaDev's github stats](https://github-readme-stats.vercel.app/api?username=VatsaDev&show_icons=true&theme=monokai)](https://github.com/anuraghazra/github-readme-stats) <br>
+ [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=VatsaDev&theme=monokai&langs_count=10&layout=compact)](https://github.com/anuraghazra/github-readme-stats) <br>
  <br>
  <br>
  some projects <br>
