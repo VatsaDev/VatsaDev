@@ -1,12 +1,13 @@
+# Student • Programmer • Idealist
 ## Hi I'm VatsaDev, <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px"> <br>
 ### a front end developer who wants to be a mern / dapp developer ⚛️
 
-##### what i am good at 
- - plain html css and js
- - some preprocessors like markdown
-##### my goals
- - be a mern stack developer
-
+#### Learning
+- typescript
+- nodejs
+- solidity
+- react
+- next.js
 ---
 ✨having a fun time on github! (thats me ↓)<br>
 <img src="walk.gif">
