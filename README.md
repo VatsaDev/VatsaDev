@@ -1,4 +1,4 @@
-# Student • Programmer • Idealist
+![Header](./github-header-image.png)
 ## Hi I'm VatsaDev, <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px"> <br>
 <img src="walk.gif">
 
