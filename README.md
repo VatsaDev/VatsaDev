@@ -1,5 +1,5 @@
 ![Header](https://raw.githubusercontent.com/VatsaDev/VatsaDev/main/github-header-image.png)
-### Hi I'm VatsaDev, <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px"> <br>
+### Hi I'm Vatsa, <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px"> <br>
 
 ### stuff I'm working on
 - 🎮 Sandbox Videogames
