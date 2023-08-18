@@ -1,5 +1,6 @@
 ![Header](https://raw.githubusercontent.com/VatsaDev/VatsaDev/main/github-header-image.png)
 ### Hi I'm Vatsa, <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px"> <br>
+![](https://komarev.com/ghpvc/?username=vatsadev)
 
 ### stuff I'm working on
 - 🎮 Sandbox Videogames
