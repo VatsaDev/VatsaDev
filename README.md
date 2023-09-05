@@ -3,9 +3,10 @@
 ![](https://komarev.com/ghpvc/?username=vatsadev)
 
 ### stuff I'm working on
-- 🎮 Sandbox Videogames
-- 🌐 Front end
 - 🤖 AI
+- 🌐 Front end
+- 🎮 Sandbox Videogames
+
 
 
 
