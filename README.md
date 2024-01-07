@@ -1,4 +1,4 @@
-![Header](https://raw.githubusercontent.com/VatsaDev/VatsaDev/main/github-header-image.png)
+![Header](https://github.com/VatsaDev/VatsaDev/assets/71975550/f1192e40-644d-41f7-81ad-63b90427f219)
 ### Hi I'm Vatsa, <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px"> <br>
 ![](https://komarev.com/ghpvc/?username=vatsadev)
 
