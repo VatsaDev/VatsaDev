@@ -3,6 +3,7 @@
 ![](https://komarev.com/ghpvc/?username=vatsadev)
 
 ### stuff I'm working on
+- Turning Raw Data into datasets
 - 🤖 AI
 - 🌐 Front end
 - 🎮 Sandbox Videogames
